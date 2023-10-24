@@ -1,0 +1,14 @@
+
+[+] testcases/test_brackets.go
+[+] testcases/test_comments.go
+[+] testcases/test_imports.go
+[+] testcases/test_new.go
+[+] testcases/test_opencomments.go
+[+] testcases/test_scope.go
+[+] testcases/test_simple1.go
+[+] testcases/test_simple2.go
+[+] testcases/test_simple3.go
+[+] testcases/test_switch_case.go
+[+] testcases/test_tac.go
+[+] testcases/test_variable_declarations.go
+[+] testcases/type+map.go
