@@ -1,3 +1,5 @@
+![gif](https://github.com/TerreDHermes/TerreDHermes/blob/main/assets/Go.gif)
+
 # Go-Compiler
 Запуск скрипта  - run.sh. Вот его содержание:
 ```
